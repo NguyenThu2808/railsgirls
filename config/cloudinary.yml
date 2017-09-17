@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dzskr58yn
+  api_key: '366789162362461'
+  api_secret: 6yg-HkzizwN_nLQ43o2-5FWhAz4
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dzskr58yn
+  api_key: '366789162362461'
+  api_secret: 6yg-HkzizwN_nLQ43o2-5FWhAz4
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dzskr58yn
+  api_key: '366789162362461'
+  api_secret: 6yg-HkzizwN_nLQ43o2-5FWhAz4
+  enhance_image_tag: true
+  static_image_support: false
